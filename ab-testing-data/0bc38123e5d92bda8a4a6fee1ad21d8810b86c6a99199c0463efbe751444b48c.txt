@@ -1,0 +1,56 @@
+Test four different book title generation configurations against each other and real book titles.
+
+All responses from one user.
+
+
+
+Analysis:
+
+temp=0.7,top_k=40:
+	temp=0.7,top_k=40: [10, 10] (50.00%)
+	rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33: [32, 14] (69.57%)
+	rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85: [13, 39] (25.00%)
+	rep=1.05,rep_range=560,temp=0.7,top_k=40: [25, 11] (69.44%)
+	real: [30, 13] (69.77%)
+
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33:
+	temp=0.7,top_k=40: [14, 32] (30.43%)
+	rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33: [9, 4] (69.23%)
+	rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85: [12, 33] (26.67%)
+	rep=1.05,rep_range=560,temp=0.7,top_k=40: [11, 17] (39.29%)
+	real: [22, 18] (55.00%)
+
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85:
+	temp=0.7,top_k=40: [39, 13] (75.00%)
+	rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33: [33, 12] (73.33%)
+	rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85: [14, 12] (53.85%)
+	rep=1.05,rep_range=560,temp=0.7,top_k=40: [40, 11] (78.43%)
+	real: [42, 19] (68.85%)
+
+rep=1.05,rep_range=560,temp=0.7,top_k=40:
+	temp=0.7,top_k=40: [11, 25] (30.56%)
+	rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33: [17, 11] (60.71%)
+	rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85: [11, 40] (21.57%)
+	rep=1.05,rep_range=560,temp=0.7,top_k=40: [5, 12] (29.41%)
+	real: [21, 18] (53.85%)
+
+real:
+	temp=0.7,top_k=40: [13, 30] (30.23%)
+	rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33: [18, 22] (45.00%)
+	rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85: [19, 42] (31.15%)
+	rep=1.05,rep_range=560,temp=0.7,top_k=40: [18, 21] (46.15%)
+	real: [6, 16] (27.27%)
+
+
+
+
+
+The controls, where the same configuration is tested against itself, should be ~50%, but most weren't.  This indicates a lack of data.  Considering only percentages outside of those bounds, the following is a rough analysis.
+
+Reverie BETTER THAN Big dumb
+Reverie BETTER THAN Blue Lighter
+Reverie BETTER THAN Big dumb
+Reverie BETTER THAN Blue Lighter
+Reverie BETTER THAN Less dumb
+Reverie BETTER THAN Less dumb
+

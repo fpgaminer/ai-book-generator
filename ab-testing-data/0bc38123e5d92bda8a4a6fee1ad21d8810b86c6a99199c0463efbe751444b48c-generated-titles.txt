@@ -1,0 +1,1078 @@
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The New Zealander: a colonial sketch
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heart of Midlothian. A novel [By Sir Walter Scott]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=How we live now: studies in modern manners
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lectures on Art delivered before the University of Oxford; with additional letters, &c
+temp=0.7,top_k=40,title=The Land of the Living: a poem
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sketches of Social Life among the New York Italians
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Twelve Tales. Illustrations drawn on wood by Arthur Hughes
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Invisible Prince, a tale of mystery
+temp=0.7,top_k=40,title=The Squire's Daughter, and other tales [In verse.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Island of Happiness. A novel
+temp=0.7,top_k=40,title=The Old Church of the Holy Cross in the parish of St. Michael, Penzance, Cornwall [With plates.]
+temp=0.7,top_k=40,title=The Warden. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Spiritualism examined and explained
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Notes on Spain and Portugal for travellers
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The King's Highway. A novel
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Marietta Odessey. An idyllic tale for young people
+temp=0.7,top_k=40,title=Fernan Caballero
+temp=0.7,top_k=40,title=The Last of the Troubadours [A novel.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Thoughts suggested during a walk round Richmond Park
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales of Wonderland - From my own Note Books... Translated into prose by Cuthbert Bede. With Twenty Illustrations after Gustave Doré
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales From Shakespeare. First series
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Illustrated Catalogue of Prints at the Fine Art Society's Gallery
+temp=0.7,top_k=40,title=Flight and Adventures of John Williams; translated from the French
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales From Shakespeare. The Tempest
+temp=0.7,top_k=40,title=The Life of Thomas à Becket. By R. S. Surtees, Esq.
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Journal of an Expedition into the Interior of New Guinea, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Voyage à l'Égypte et dans la Nubie
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Oliver Twist, &c [Illustrated.] From the German, under the title "Nachricht von den armen Kindern"
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=London Life; or, Day and Night Scenes through the Metropolis
+temp=0.7,top_k=40,title=The Life and Times of Joseph Grimaldi: from the manuscript papers of his sister, Mrs. Bannister
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Maurice de Guérin. An unfinished romance
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Ladies' Book of Etiquette, Moral and Social... With illustrations
+temp=0.7,top_k=40,title=The Fate of Castle Löwengard: a story of the days of Luther. Completed and illustrated by W. J. Hennessy
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=English Popular Biography
+temp=0.7,top_k=40,title=The Adventures of a Lady in Search of a Husband
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sicily and Southern Italy. The work of Frederick Denison Maurice (new ed.)
+temp=0.7,top_k=40,title=The Poetical Works of John Skelton
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Influence of Music upon the Mind
+temp=0.7,top_k=40,title=The Life and Times of Charles James Fox
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heroines of Shakespeare. A series of biographical studies
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings among the Alps ... In two volumes. Vol 1 (the first volume) contains his account of the ascent of Mont Blanc, &c
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady's Magazine, or Beauties of British Poetry [With engravings after Thomas Stothard.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Some Remarks upon our English Newspapers... By an American Editor
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Poetry for Children: selected chiefly from the Greek classics with notes
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Old Glory, an illustrated satire
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Lectures on Modern History. Comprising also an account of English history during the same period
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Bridal Garland, containing nearly all the popular airs now sung at weddings, collected and arranged under their proper names
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Historical Sketches of the Reign of Frederic II., Emperor of Germany, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Young Chevalier: a tale of the French Revolution
+temp=0.7,top_k=40,title=A Tour on the Continent: from Paris to Venice
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Glory of the Morning
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The British Islands in their relations to each other and to Europe
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Conversations about Art
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=South Australian Bibliotheca
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Pastor's Story
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Christmas Carol. From the German of C. M. Volckmann
+temp=0.7,top_k=40,title=The History of Cedar County, Iowa ... Illustrated
+temp=0.7,top_k=40,title=The History of the State of Maryland
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Poetical Works of Robert Browning, with a memoir and bibliography
+temp=0.7,top_k=40,title=The Cid, a Tragedy. Acted at the Royal Theatre, Covent Garden. With illustrations
+temp=0.7,top_k=40,title=Old English Ballads: a collection of favourite ballads of the olden time, and the poetry of the same ... With notes, etc
+temp=0.7,top_k=40,title=A Poet's Pilgrimage
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales from Shakespeare [Selection.] [In verse.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Flower Fables, translated from Schiller's 'Gespräche der Liebe,' by Mme. Ricordi
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rural Poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Studies of Nature
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lancaster Asylum: its origin, history, work, management, inmates, &c., with portraits of some distinguished visitors [In two volumes], etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Description of the Scenery, Antiquities, and Productions of the Island of Madeira
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Castle of Miracle. A legend of the Rhine
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Scapegoat. A tragedy in five acts
+temp=0.7,top_k=40,title=The Story of the Household. A tale
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Literature of America
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Queen's Book of Beauty. A collection of choice selections for the toilette, etc
+temp=0.7,top_k=40,title=Recollections of a Long Life
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Brightons Picturesque Walks, illustrated by drawings made upon the spot... Illustrations
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Short History of the Jews
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sicily... Illustrated
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Little Orphan. A Christmas story
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Mysterious Stranger
+temp=0.7,top_k=40,title=The Land of the Leal. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of Russia, from the earliest times to the present day
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Old Farmhouse. A tale of the last century
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Boyhood of Napoleon
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Leaves From My Notebook. Verses
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Mountain Poems
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Nantucket Sketches
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Life and Correspondence of Lord John Russell, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Heatherbrae; a Novel
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thoughts upon our present political state considered principally by reference to European politics during late years [In three parts.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Twelve Months at St. Moritz, Switzerland, for 1860-'61
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady of the Lake. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Natural History of the Bible
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Histoire des Américains du Nouveau Monde
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=England under Edward VI.; Scotland under Mary ; Ireland under Elizabeth
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Maid of Orleans
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Little Folks' History of England for Boys and Girls (1846)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Le Baron De Thurn und Taxis ou les moeurs du XIXe siècle à travers un exemple historique
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The White House
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings among the Alps & Pyrenees
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of the Books. A satirical poem
+temp=0.7,top_k=40,title=The Life and Times of Napoleon Bonaparte. By William Hazlitt
+temp=0.7,top_k=40,title=A Woman's Will
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thoughts on Poetry from its Origin to the Present Time
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=English Lyrics; chiefly selected from early poets. Selected & arranged by W. Allingham
+temp=0.7,top_k=40,title=E. L. Barnum, and his collection of historic relics. By William H. Barnum
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Reise nach Japan und China im Jahre 1879-80
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fairy Tales Told to Children [By E. Haldeman-Julius.] Third enlarged ed.
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Notes sur les fouilles archéologiques à Carnac (Morbihan) 1902-1904 [Divers.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Gold Hunters, and other stories
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Prince of Wales's Letters to the People of the United States. Addressed to the people of the United States, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=English Proverbs: selected and arranged for popular use
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Picturesque Sketches in Germany, Switzerland, France, Italy, Sicily, Corsica, Turkey, Egypt, etc
+temp=0.7,top_k=40,title=The Wreck of the Grosvenor. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Landschaften und Städte von den Alpen bis zum Ärmelkanal
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Naturalist at Home. The birds that visit us every summer
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Memoir of Mrs. Piozzi, including selections from her correspondence, and from her unpublished manuscripts
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thoughts on Political Economy
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Oddy and Son. Volumes i.-iii., illustrated. New edition
+temp=0.7,top_k=40,title=The British Empire: a survey of its resources and its history
+temp=0.7,top_k=40,title=History of the American Civil War, from 1861 to 1866
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Elegy for B., an autobiography [Written after his death]. By Dora Greenwell [Dressed in black silk velvet.]
+temp=0.7,top_k=40,title=The History of the Church of Christ: from the days of the Apostles to the present time
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Pocket Book of Poetry
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Rambles through the Holy Land. By J. G. Lockhart. New ed., revised and enlarged
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Some Account of Iceland: containing observations relative to its present state as well as former condition under Danish government
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Clergy List
+temp=0.7,top_k=40,title=The Life and Letters of Richard Cumberland
+temp=0.7,top_k=40,title=The Life of the Emperor Napoleon. By W. R. Siborne
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Mysterious Island. A romantic narrative
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales Told Again
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=London for Travellers : selected hints for foreigners visiting London... Edited by Edward Hutton, F.R.G.S., C.B.... Second edition
+temp=0.7,top_k=40,title=The Maid and the Magpie. A tale, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Atalanta In Calydon. And Other Poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Black Eagle of Germany. A historical romance
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales from Calabria; translated from the Italian of Giovanni Verga, Esq., Barrister at Law [In two volumes.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The White Peacock. A novel
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fables & Tales From Herodotus The Iliad Of Homer Vol III ... Fourth edition ... Illusts. (By Thomas Bewick)
+temp=0.7,top_k=40,title=The Life of a Slave, or a Story of the Times of the Empire
+temp=0.7,top_k=40,title=The Romance of the Three Kingdoms; a poem
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Kosakai; or, The Story of Japan as told at school. Translated (from Kotōdai Enshū.)
+temp=0.7,top_k=40,title=A. S. M. La Reina Doña Isabel II, Recuerdos del Real Palacio de Mallorca
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=La Légende d'Énée : poème lyrique sur le thème des Argonautiques
+temp=0.7,top_k=40,title=The Wreck of the 'Maid of Lynn'
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Through Japan with a Kodak [With maps and plates.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Miscellany No. 2, Vol VII., pp. 1–14
+temp=0.7,top_k=40,title=Le Thé des Anges
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[Proposed book for children:] The Children at School
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Influence of Literature upon Society
+temp=0.7,top_k=40,title=A History of the Connaught Rangers
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Life on the Border Line
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=When I was a boy at school, and other stories from 'Blackwood'
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Wagneriana: essays on Wagnerian subjects
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Glimpses of my Childhood Days : from 'Froissart.' Edited by Sir Edward Bulwer Lytton
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Byron: his poetry and himself
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An Old Story Retold
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=On Some Passages in Shakespeare
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fate of the Rebels [A novel.]
+temp=0.7,top_k=40,title=The Great Metropolis, or London in 1858
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=In my Fatherland [From German original.] Translated into English by G. F. Monkshood
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Poems chiefly written during his late visit to Spain (Second series)
+temp=0.7,top_k=40,title=A Guide to the Lakes, Mountains, and Seaside ... Second edition
+temp=0.7,top_k=40,title=Poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Shadows from Shakespeare: being gleams from his plays condensed and arranged for reading aloud as short stories
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Old Songs for Young People
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Rise of the Dutch Republic. Translated from the original Latin of Motley, by J. W. D.
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Heroines of Fiction
+temp=0.7,top_k=40,title=The Olden Time. A poem
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lectures on Naval Tactics
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man who would be King, etc
+temp=0.7,top_k=40,title=The Pursuit of Knowledge with other poems, etc. By J. R. L., etc.
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=In the Ranks for God and Country (New Edition.)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=New Year's Eve at Yacht Haven. Poem on the opening of the yacht harbor of Newport (R. I.)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Canterbury Pilgrims. A history of the life and labours of Thomas à Becket, Archbishop of Canterbury
+temp=0.7,top_k=40,title=Gleanings among the Castles and Convents of Norfolk
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Triumph of Love: a lyrical drama
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Secret of the Temple
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of Maldon
+temp=0.7,top_k=40,title=Histoire de France
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Outlines of Astronomy for Young Persons
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Memorials of Montacute, Somersetshire.... In two volumes (8vo). 2d edit., revised, with notes and additions
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Indian Muse in English Garb [Poems.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of Hastings, and other poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Johnny Armstrong : a boyhood memory book
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=My Life as an Indian Savage
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Pipes o' Pan
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Glimpses of Artistic London [By Thomas Frost]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Annals of Newgate Prison for the year ending 30th June 1850
+temp=0.7,top_k=40,title=The Story of the Iroquois
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Celtic Mythology and Romance
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=History of Denmark as known up till 1750. Including notices of Danish literature, &c., compiled during ten years residence there by Wm. Opie
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Sea of Ice. A romance
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Early Christian Church. Its origin, progress, and influence upon civilization
+temp=0.7,top_k=40,title=The Curse of Kehama: a story of the times of Charlemagne. A romance [In two volumes.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rudimental English Grammar ... Revised edition
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Russian Question
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Scotland under her Early Kings. From authentic records compiled chiefly from original sources
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poems by Emily Brontë. Edited by Mrs. Smith
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=A Dictionary of Architecture. By John Gwilt, F. S. A., architect ... Illustrated with upwards of six hundred engravings
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The American Bible Society, and other charities
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Memoir of the Life and Writings of William Blake. Edited by F. T. Palgrave. From 'Fraser.'
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Le dernier cri du jour sur les chemins de fer (1861)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Adventures at Home and Abroad; being the experiences of Mrs. Seymour during two years spent abroad
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Childhood of Shakespeare
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Descriptive Sketches of Rome; including its antiquities, palaces &c., as seen during my stay there last April
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Jubilee Book of Poetry. Including choice specimens of poetical genius in all ages and countries
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Last Days of Pompeii, and other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Siege of Lucknow: a romance of war in India
+temp=0.7,top_k=40,title=The History of the City of London in the XIIIth Century, etc
+temp=0.7,top_k=40,title=The New Woman. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Old Maid's Ballad Book
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Deacon's Masterpiece. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Liberty Hall (Old Lyme), being an account of the descendants of Elder Brewster, who came over in 1638
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Moorish Life in Grenada; being original letters written during four years residence there [By Revd James Hoggard]
+temp=0.7,top_k=40,title=Poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings among the Highlands and Islands of Scotland with recollections of Edinburgh
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Naturalist's Library
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of Trafalgar [A historical sketch.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Selections for an Album: including several pieces never before printed
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poetical Works of Samuel Rogers. Comprising The Pleasures of Memory, Songs before Sunrise, and Other Pieces
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gems for the Drawing Room
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heart of Midlothian. A romance
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Revolt of the Netherlands. Translated from the Dutch of J. L. Motley
+temp=0.7,top_k=40,title=The Land of the Hatti-Scherri, a travel book [By E. L. Godkin.]
+temp=0.7,top_k=40,title=The History of the Campaign in the Crimea, by a member of the staff of the Times
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Nineveh and Babylon; being historical studies connected therewith
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Passing Show. A novel
+temp=0.7,top_k=40,title=The Maid of the Forest
+temp=0.7,top_k=40,title=A Historical and Descriptive Account of the Isle of Man; with a map of the same ... Second edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Memoirs of Mrs. Hemans Edited by her Son, Henry Hart Milman, Esq., D.C.L. -Second Edition
+temp=0.7,top_k=40,title=The Wreck of the Golden Mary: a Tale of the Spanish Main
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Picturesque Yorkshire. In two parts. Volumes I & II
+temp=0.7,top_k=40,title=The History of the French Revolution. From 1789 to 1804
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Journal of a Residence among the Mormons in Utah Territory
+temp=0.7,top_k=40,title=A History of the County of Kent: from the earliest times to the present time. By John Hodgson
+temp=0.7,top_k=40,title=The Young Heiress. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Gretchen's Room
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The New Hebrides; or, Latter-Day Cannibals. A narrative of adventures in that group of islands, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wakefield Churchyard
+temp=0.7,top_k=40,title=Oakfield, a tale of the seventeenth century
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The History of St Patrick's Church, Dublin
+temp=0.7,top_k=40,title=The Sands of Time. A novel
+temp=0.7,top_k=40,title=The Life, Writings, and Character of the late Sir Edwin Chadwick ... With a memoir. By R. B. Pugh
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Greece under Turkish rule
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=John Gilpin's Ride
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Daughter of Eve. A story for girls
+temp=0.7,top_k=40,title=Miscellanea
+temp=0.7,top_k=40,title=The History of the Royal Irish Constabulary ...
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Boswelliana; or Life of Samuel Johnson, LL.D., including an account of his visit to the Hebrides in 1773
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Early History of Rome, as connected with the history of the Eastern Empire
+temp=0.7,top_k=40,title=The Life of John Howard, the philanthropist
+temp=0.7,top_k=40,title=The History of the Borough of Bury St. Edmunds from the earliest period to the present time. By Henry Morley, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Old Songs for Young Voices
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Shakespeare's England
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Sea-Kings of Norway. A book of travel
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Dwellings for Invalids
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Gleanings from the Harvest-Home: or, a choice selection of verses and songs
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Irishman's Diary: a record of social, political, and religious events during the year 1865
+temp=0.7,top_k=40,title=The History of the Rebellion in Ireland
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Ramblings amongst Booksellers' Stalls
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Falmouth as it was -- Falmouth today (being personal impressions)
+temp=0.7,top_k=40,title=A Tale of the Sea: the Wreck and subsequent Adventures of the "Dolphin"
+temp=0.7,top_k=40,title=Aunt Jemima's Property
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Historical Notices respecting Doncaster since 1834, compiled chiefly from official documents[From 'The Doncaster Gazette.']
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Landscape Studies: chiefly on the banks of the Thames
+temp=0.7,top_k=40,title=A Book of the River
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Reign of Law, and other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fair Maid of Perth
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Selections from The Works of Robert Burns
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Land of the Incas
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Leaves from my study window; or, My note book for 1873
+temp=0.7,top_k=40,title=The New South Wales Directory. A descriptive and historical dictionary of the colony of New South Wales, Australasia. [With a map.]
+temp=0.7,top_k=40,title=A Tourist's Diary in the Counties of Kent, Sussex, and Surrey. With a map ... Second edition
+temp=0.7,top_k=40,title=The Memoirs of Madame de Genlis ... With notes and illustrations by Miss Pardoe
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Iron Game. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The True Story of a Life. A Novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Folk Songs of Scotland, collected by Francis Collinson
+temp=0.7,top_k=40,title=The Life of William Hone ... with a memoir ... By the Rev. Thomas Beighton, B.A.
+temp=0.7,top_k=40,title=The Nights of the Round Table, with other poems [In prose]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Love Conquers All; or, True Lovers never part
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Essays written in Youth, and now reprinted with some additions
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Book of the Gipsies
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Town of Swansborough
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stories about Animals
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Leaves from the Notebook of Anne Thackeray Ritchie
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poems chiefly connected with Essex and Kentish folk-lore
+temp=0.7,top_k=40,title=Strange to say! and other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heir of Linne. A Tale of the Dark Ages
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Ivanhoe : a Romance [By Sir Walter Scott]. Translated from the French original with notes and illustrations by T. Baines
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Popular Astronomy: an elementary treatise adapted to popular use, being a practical guide to astronomy as applied to navigation
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rembrandt: his life drawn from authentic sources
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Mysteries of the Court of Louis XIV., translated from the French of Mignard
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Peasantry of England
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Recollections of an Indian Official. Written at Simla, 1882-'3
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The French Revolution, 1789-1815. From authentic documents
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Essay on some recent changes in English society respecting property, marriage, &c., and their effects upon the morals of all classes
+temp=0.7,top_k=40,title=The Life of Sir Thomas More ... By William Roper
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=On the Study of Celtic Literature (An address delivered at Oxford on 4th July 1883)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Fortunes made at Home: being anecdotes illustrative of English character, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wreck of the Golden Mary. A novel
+temp=0.7,top_k=40,title=The Old Man of the Mountains
+temp=0.7,top_k=40,title=Tales from the German
+temp=0.7,top_k=40,title=The History of the Campaign in the Crimea, with ... illustrations
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Kurhaus des Bayerischen Ritterschaften zu Munich
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Children's Book of Poetry
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Countess of Albany: a novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Landlord at the Plough & Other Poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Rise and Progress of the Dutch Republic [From the English translation by Sir Henry Clinton.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Napoleonic Studies at Warrington Church Library
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Scenes at Cintra [By Lady Morgan]. Edited by James Anthony Froude. With new introduction by Robert Arnot
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=An Account of Some Particulars respecting Mr. Bewick's celebrated work on Quadrupeds. By William Kirby
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wanderer's Library: a series of books about places, peoples, and things. Edited by J. G. Edgar
+temp=0.7,top_k=40,title=Poems
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches at Home and Abroad
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Die Erziehungskunst im Bunde mit den modernen Methoden des Unterrichts
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales of Old Japan (From original Japanese MSS.)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales of Ireland; with other stories illustrating Irish life and character
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Romance of West Point, Virginia
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Children's Book of British Birds
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rudolph von Benningshausen : ein deutsches Leben im XIX Jahrhundert
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heir of Redclyffe. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Little Book of Italy
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Child of the Cavern. A fairy tale
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Praise of Old Siam. A poem
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Clarissa Harlowe: a tale of passion. The second part
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Philosophic Studies; or Thoughts upon Thinking (By Thomas Brown) [Second series]
+temp=0.7,top_k=40,title=The Life and Correspondence of J. H. Newman, M. A. With a sketch of his writings
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heart of the Andes; or, Life among the Chilians
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Historical Memories of Westminster College, Cambridge (by Dr Girdlestone)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Through Forest and Field; or, Notes from Nature. The Rural Muse
+temp=0.7,top_k=40,title=The Poetical Works of Thomas Moore, with a memoir of the author
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wayside Posies: an essay upon flowers and their associations as emblems of character
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Leaves from Autobiography [1842–46], edited by Charles J. Fox. L.P
+temp=0.7,top_k=40,title=[A selection from] The Poetical Works of Alfred H. Unger. Edited by T. C. Cann
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=London as Seen by Moonlight [Nights afternoons]. Two vols., paper covers, pp. xii+xvi each
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Orphan of China: a narrative of adventures in the interior of China
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lectures delivered at Cooper Union College on the subject of 'Seventy Years since.' By Edwin P. Whipple
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=To My Booksellers
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The life of Florence Nightingale, written by herself
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Diary of an Officer during his Service at Woolwich Arsenal 1878-'82
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Woman's World
+temp=0.7,top_k=40,title=The Life Story of a Cat
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Some Account of the Rise and Progress of the Society for Promoting Christian Knowledge during the years 1701 to 1800 inclusive
+temp=0.7,top_k=40,title=A Narrative of the ... Explorations in Australia Felix, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Athens, Ancient and Modern. A poem
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Holy Land. Its scenery, antiquities, and people
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Journal of John Galloway (1772)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Oceanica, its Islands and People. By William MacGillivray
+temp=0.7,top_k=40,title=Gentleman's Magazine, Journal, and Literary Cabinet
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Cantos del rey Salomón y su cortejo por el país de Moab o Jordan
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Life at Sea, illustrated[with twelve engravings]. Fifth edition
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Family Bible: a collection of genealogical tables, biographical notices, and anecdotes of distinguished persons, illustrated with portraits
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Miscellaneous Poems [Edited with notes]. By Richard Hengist Horne
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Woman! Woman!! Women! A poem
+temp=0.7,top_k=40,title=The History of the American Church; or, an impartial account of its origin, rise, progress, and present condition
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Hail! Columbia, happy land!, and other poems
+temp=0.7,top_k=40,title=A History of the County of York from the earliest time to the present period
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Ancient Rome under the Monarchy. An epitome of Roman history during the first fifteen centuries after Christ
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poems on various subjects
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of the British Empire in India, from the earliest period to the close of the century ending in 1835
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Selections for Young People
+temp=0.7,top_k=40,title=The Wooing of Anne, a poem
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Magazine
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Way of all Flesh
+temp=0.7,top_k=40,title=Tales of the West Indies
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=[Reprinted from the Edinburgh Review.] On the Repeal of the Union Act
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Mademoiselle de Merrivale. A story
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sixty Years Among Authors, Booksellers, Publishers, Etc., Second series
+temp=0.7,top_k=40,title=The Story of a Round Dozen of Friends. A book for girls, and for young ladies, etc
+temp=0.7,top_k=40,title=The Great Exhibition of 1851. A hand-book for the use of visitors to the Exhibition
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Paris at Dinner Time; or, the Recollections of an Englishman who has been spending two years there
+temp=0.7,top_k=40,title=The Battle of the Baltic
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=An Address delivered before the Society of Arts, October 12th 1844, being an attempt to prove that it is possible to dispense with gas lighting in large towns
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fairy Days : poems chiefly derived from oral tradition... With illustrations
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Recollections of Spain, written at home
+temp=0.7,top_k=40,title=N. B. A collection of poems [By F. J. G. H. L.].
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Confessions of a Drunkard. From the French of Jules Janin
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Rural Hours. By Thomas Gray, Esq., F.S.A. Revised edition, illustrated from original drawings by E. J. Sullivan
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Water-Babies, a Fairy Tale for a Land Baby. By Charles Kingsley
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Last Days of Pompeii; a tragedy in five acts
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wild Huntress. A novel
+temp=0.7,top_k=40,title=Sketches of history, politics, and manners in Dublin. and the North of Ireland, in 1810. A new edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Shrewsbury Drollery
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Life on the Mississippi
+temp=0.7,top_k=40,title=The World's Wonders. Or, Pictures from the Great Exhibition. With ... illustrations
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gleanings for the Harvest Field ... Second edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Briefe eines Augenzeugen aus Frankreich und Italien, 1807-1815
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=History of Russia during the Reign of Peter I., Catherine II., Paul I., Alexander I. ..... Translated from Russian into English
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Standard of Denmark. By William Woodfall ... With illustrations
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=New Zealand as it is seen in August 1890
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Echoes from the Grave; with some verses not previously published
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gleams of Memory [Three Essays] L.P.
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=England under Henry VIII., Vol. I.: including the reigns of Edward VI. and Mary Tudor
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Land of the Lion and the Sun. A romance of Equatorial Africa
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Reisen nach den Schweizern und Italienerinnen durch das Südwestliche Deutschland im Jahre 1850
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Life of Henry Martyn, missionary to India. A memoir by his sister, Mrs. Sherwood
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rambles among the old historic places about Chichester. With some account of the Priory Church at Selsey.
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stories about Animals & Other Things Which Talked and Went Upon Two Legs .... Illustrated by Frederick Barnard
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The King's Own. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Daughter of St. Mark. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Thoughts for To-day: prose and poetry
+temp=0.7,top_k=40,title=The Life of Lord Bacon, and the History of his Writings
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Adventure in Castile & Leon, 1869-70. With maps, plans, sketches, &c., etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Three Musketeers; a translation into blank verse
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Kalevala: a national epic of Finland
+temp=0.7,top_k=40,title=The Story of the Great Exhibition of 1851
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Hymns Ancient and Modern
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wanderer
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Studies on English Literature [By William Watson]. Second series
+temp=0.7,top_k=40,title=The Old Man of the Mountain
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Blaenau Festiniog: its history, antiquities, topography, inhabitants, trade, manufactures, &c., illustrated by numerous engravings
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Les Français et l'Angleterre à la fin du XIXme siècle (1883)
+temp=0.7,top_k=40,title=The History of the British Navy. From the earliest period to the present time
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thirty Years at St. Helena, from Lord Collingwood's Journal (1808)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Book of Months: containing one hundred engravings illustrative of each month throughout the year
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Vicar of Slowditch Or, Early Days in Yorkville. A comedy in five acts [with notes on Shakespeare's 'Twelfth Night']
+temp=0.7,top_k=40,title=Sant' Antonio di Padova, con le sue reliquie [With a map.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The History of England from the Peace of Utrecht till the Peace of Versailles [Volumes I.-V., with maps.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Picturesque Guide through East Anglia
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sketches of Character and Caricature Illustrations to "Don Quixote"
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Christmas at Sea
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches from English History. Second Edition, revised [With plates.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thirty Years' Residence In India (First Series) [By Thomas Coutts, late Governor General of Bengal.] Second edition, revised
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales of Old Japan: being sketches of Japanese life at home and abroad during the last fifty years... Fourth edition
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Pilgrim's Progress, abridged from the larger work, with notes, by R. Amos
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales From Shakespeare, selected with great care as models of pure narrative prose
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Irishman's budget
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=What I saw when walking through Ireland; being notes made during three months spent there
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Wonders of Nature and Works of Man, illustrative of Scripture history as connected with modern science
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Adopted Child: being a sequel to 'Two Years ago'
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Picture Gallery of the Kings of England
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Mémoires du comte Alexandre de Prusse 1770-93
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Passionate Pilgrim
+temp=0.7,top_k=40,title=L'Art de se faire peintre. Traité complet de la gravure en couleurs, etc
+temp=0.7,top_k=40,title=The history of the Jews, from the death of Jesus Christ to the present time; with a notice of the principal events in the history of the Christian Church
+temp=0.7,top_k=40,title=Narrative of the Expedition to the River Niger in 1841 and 1842. By Sir Charles Maclean, Bart.
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Reminiscences of General Grant, as related during his residence in Scotland, 1860-1865
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Claremont Hillside Library - Index page (to be found under 'Greece')Q:
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lincolnshire Poems ... Edited by S[ir] C[uthbert]. Shorthose
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=A Voyage up the River Amazon, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Mysteries of Udolpho. The Italian version of Mrs. Ann Radcliffe's celebrated romance
+temp=0.7,top_k=40,title=The Last and Greatest of the Paladins. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=[Buchstabenspuren:] The Grand Chartist Trial at York
+temp=0.7,top_k=40,title=The Life of George Stephenson, Engineer
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches of Life in Canada
+temp=0.7,top_k=40,title=The Reveries of a Bachelor. Second edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stirring Times in Hungary
+temp=0.7,top_k=40,title=The Romance of the Nibelungen
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Recollections of my Childhood. By Elizabeth Barrett Browning
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Farewell! The last words of Arthur Ewelme... Before his execution at Tyburn
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Thalaba the Destroyer (from the Arabian Nights)
+temp=0.7,top_k=40,title=An Address to the Working-men of England, by a Working-man
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Story of the Heidelberg Catechism
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sketches of Life: being memorials of the late Rev. T. L. Evans, vicar of Barford and Nettlebed
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=La Dictadura de Primero de Mayo en Espana y sus efectos
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Pictures of Travel, for Young People's Reading
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poema del Cid y otros poemas heroicos castellanos
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Familiar Letters between Mr. Timothy Titmouse and his friends at Tunbridge Wells
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Courier of the Baltic
+temp=0.7,top_k=40,title=The Old Man's Darling. A Novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Pilgrim's Progress. From this world to that which is to come
+temp=0.7,top_k=40,title=The Fate of the House of Habsburg
+temp=0.7,top_k=40,title=The History of a Consummate Scoundrel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Children of the Abbey
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Highlands of Scotland, with some account of the Hebrides and Orkney islands
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Our Own Country
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Adventures of Philip Quarll, Esq., during his residence in the East Indies. Written by himself
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Stories from Shakspeare. Newly arranged for juvenile readers. First series
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Stories of my Life, 1813-1847
+temp=0.7,top_k=40,title=Une Page d'histoire locale. (La terre de Nantua du Xe au XIXe siècle.)
+temp=0.7,top_k=40,title=Memoirs of John Howard, the philanthropic prison-reformer
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Ballad of the Green Tree. A ballad of the Fenian troubles
+temp=0.7,top_k=40,title=Misadventures of a French pedagogue in England and Scotland, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Cumberland Shepherds, And Other Tales, Old and New [Republished as "Favourite Folks"]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Inquisition of Spain. A history
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Book of the Navy; or, Naval Scenes and Characters. By a Naval Officer
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Stories of New Zealand
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Letters from France: 1871-72
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spiritual Magazine, edited by the late Samuel Lawrence
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Conquest of Mexico
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Childe Harold's Pilgrimage Through Europe During The Years 1790 & 1791
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Maid of the Alps: a tale of the French Revolution
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Travels through Germany, Italy, Switzerland, France, England, Scotland, &c., during 1831-'32
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title='We few!' By Rudyard Kipling. Edited by Fred Whishaw
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Works of Edward Gibbon, Esq., LL.D. [Vol. 2.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Eine Erzählung aus der Vorzeit
+temp=0.7,top_k=40,title=The Dangers of the Seas, and other poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=At the sign of the Three Tuns ... Reprinted from Fraser's Magazine
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Toastmaster General, etc
+temp=0.7,top_k=40,title=The History of the War in the Peninsula [In two volumes.] Illustrated with numerous engravings, and a map of the Peninsula
+temp=0.7,top_k=40,title=Sketches of Life and Character, by the Author of 'Nugget' and other works
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A series of popular lectures on the science of government, delivered before the Mechanics' Institute, Glasgow
+temp=0.7,top_k=40,title=The Life and Times of Lord Clive
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Harmony : selected from 'Lyrica et mystica.' Translated & edited by John De Villiers
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Life for Life; or The Story of Sir John Mordaunt
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fables and Sayings from many lands reputed wise
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Schoolmaster's Revenge. A tale of the West Indies
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Foolish Young Man. A play in four acts
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man of Feeling
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Prairie Flower Book for Children
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Voyages dans le Grand Ouest et aux Indes occidentales par une société d'Américains
+temp=0.7,top_k=40,title=The Old Church and the New. A narrative
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Poems chiefly from French sources; with notes critical and explanatory
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spirit of the Hebrew Poetry. A lecture read before the Society of Biblical Archaeology
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Red Silk Ribbon. A novel
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Falkland Islands: their history and associations, etc
+temp=0.7,top_k=40,title=A Tale of the Times of George IV. By a member of the Aristocracy
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gulliver's Travels into several remote nations of the World ... (Revised from Dr Johnson,) To which are added many notes never before published
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Journal of a Residence in the Canadas during the years 1834, 5, 6, 7, 8. With a map and illustrations
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Childe Harold's Pilgrimage. An abridged edition with introduction, explanatory remarks, &c., etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fashionable Life of Rome From Court to Cottage
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gipsies of Spain
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stowe Landscape Park and Forest [Descriptions]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lost Fortune
+temp=0.7,top_k=40,title=The Last of the Mohicans. A novel [Edited with a life of the author by G. P. R. James]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Cranford: being incidents in the lives of the inhabitants of Cranford during ten years
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Queen's Page: a tale of the days of Queen Elizabeth
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wild Duck, and other poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Eminent Men I Have Known. Biographical sketches selected from 'English Worthies,' etc., by Rev. Edward Caswall
+temp=0.7,top_k=40,title=The Poetical Works of William Wordsworth. With a memoir. By R. H. Horne
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Recollections of an old traveller
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An Account of some curious Antiquities found near Manchester
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Christmas Carols for Children
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Dramatic Idyls of Australia
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Great Britain under Gladstone 1880-1884
+temp=0.7,top_k=40,title=The Vignettes of London. A series of views of public buildings, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Dramatic Works of Samuel Foote [with a life of the author, by T. Dibdin.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Love at Sea; being stories from real life on board ship
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Die Frauen von Malta, ihrem Charakter, Religion usw., etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Maid of Saragossa [A novel.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of the Boyne: an historical drama
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Three Weeks after Marriage; or, The first day of my wedded life (a sequel)
+temp=0.7,top_k=40,title=The Poetical Works of Thomas Campbell
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Voyage dans les Pyrénées occidentales [With maps and engravings.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=La Roche en Ecosse par un homme d'affaires anglais
+temp=0.7,top_k=40,title=The Fancy; a novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Cape Cod : a summer residence
+temp=0.7,top_k=40,title=The Wandering Minstrel
+temp=0.7,top_k=40,title=The History of the First Church of Christ Scientist, Boston, Massachusetts
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wreck of the 'Deutschland'; with a narrative of her loss and rescue, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Academy of Sciences at Stockholm. Its foundation and development
+temp=0.7,top_k=40,title=The Life of a Foxhound
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Grenada and her Island Possessions
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Life of Marie Antoinette ... From the French of Madame Campan, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Dramatic Scenes from Shakespeare's Plays
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Proverbs, Maxims, &c., collected out of various authors
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales of my Native Land
+temp=0.7,top_k=40,title=The Czar's Command, or the Last of the Romanoffs
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Adventures of Harry Richmond, a youth who ran away from school
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=My First Schoolmaster and Other Stories
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady of the Lake: a poem
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Country of the Young, and other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heart of Midlothian. A novel
+temp=0.7,top_k=40,title=The Life and Adventures of Tom and Jerry
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Northern Lights. A Tale of Iceland
+temp=0.7,top_k=40,title=Sketches from Life. [By E. L. Malmesbury.]
+temp=0.7,top_k=40,title=The Fatal Marriage
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Oliver Twist
+temp=0.7,top_k=40,title=Tales of the Great Dominion. A story of early days and events in the Dominion of Canada, etc
+temp=0.7,top_k=40,title=The Romance of Biography. Being a series of biographical studies of the lives and works of eminent persons. Second edition
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Religionsgeschichtliche Untersuchungen über das Leben Jesu Christi nach den Zeugnissen neutestamentlichen Evangeliums
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Remains of John Milton; chiefly his prose writings
+temp=0.7,top_k=40,title=The Taming of the Shrew. A comedy, in five acts
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Zur Geschichte des Kriegswunders von 1637
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Natural History of Selborne ... Edited by Rev. Gilbert White
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spectator
+temp=0.7,top_k=40,title=Folklore of the Southern Appalachians
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poetry : The First Volume
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Devil's Bridge: a legend of St. Killian. By W. Carleton
+temp=0.7,top_k=40,title=The History of the Spanish Revolution
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=La Conquête du Mexique et l'établissement d'un gouvernement provisoire en 1803
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Wanderings among the mountains from Geneva to Savoy, with sketches of some remarkable men, places, and events of that interesting country
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Modern Drama, illustrated, chiefly under literary aspects
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Kirby Smith's Introduction to Natural Philosophy
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Le Génie féminin dans l'art français au XIX siècle
+temp=0.7,top_k=40,title=The History of the United States of North America, from the discovery of the continent to the end of the year 1846 [In two volumes.]
+temp=0.7,top_k=40,title=The Book of the Pets. A collection of original stories and anecdotes for children
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Stories from an Italian Farmhouse
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Gleanings from an Artist's Portfolio
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Missionary Travels through the Yangtze Kiang: during the years 1855-6-7 .. Second edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=On the Origin of Species: by Charles Darwin
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Clouds that are so lofty, and yet so low
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Autobiography of Samuel Rogers
+temp=0.7,top_k=40,title=The Favourite of Fortune [A novel.]
+temp=0.7,top_k=40,title=Tales of the North Riding of Yorkshire
+temp=0.7,top_k=40,title=The Poetical Works of Mrs. Hemans
+temp=0.7,top_k=40,title=
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Echoes from Stray Leaves for English Readers
+temp=0.7,top_k=40,title=A Year in a Russian Village. With an introductory letter by the author
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Rival Daughters. A Novel
+temp=0.7,top_k=40,title=The Life of George Borrow [By his son, J. B. B.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Königsberg: its history and antiquities
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Life at Court, illustrated . First series ..... Second Series .... Third Series .......... Fifth Series
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Early Italian Poets
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches at Home and Abroad. During two trips into Spain, France, Belgium, Holland and Germany. With illustrations
+temp=0.7,top_k=40,title=The Life and Death of Richard Savage, a dramatic poem ... From the manuscript of J. P., etc
+temp=0.7,top_k=40,title=The Narrative of a Tour through the Eastern Archipelago, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Das Grossherzogthum Hessen nach Geschichte, Land, Volk, Staat und Oertleichkeit beschrieben
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Les Larmes du mât rouillé; ou les soeurs de l'île des Vaches
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Autobiography of Benjamin Franklin, written by himself
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Knight Errantry: an historical romance
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Forest Minstrel: a tale of the time of Edward III. By Charlotte M. Yonge
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Collected Edition of the Works of Robert Burns ... Revised and corrected throughout by William Nicol
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An Essay on Political Economy... Second American Edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Leaves From my Notebook. By Mrs. E. Wood. Reprinted from 'Blackwood,' 1888-'89
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Recollections of my native county, by Henry Sandford
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Romance of War
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Die Freischutz oder die Heimath der Jäger
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Deutsche Familiebilder
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gesta Romanorum or Lives of holy men [by Roger Blair translated into English prose]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Dryburgh Abbey: an historical picture of religious life among the Scottish Border abbeys, with some account of Dryburgh itself
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Essays By John Ruskin (Second Series.) Published under the direction of the author
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketch of the history of Birmingham... From the earliest periods downwards
+temp=0.7,top_k=40,title=The Adventures of a Gentleman. A novel, etc [By R. D. Blackmore]
+temp=0.7,top_k=40,title=The Life and Writings of William Cowper, with a selection of his private correspondence. By Thomas Wright
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Der Landvogt: ein Schauspiel aus der Zeit des Hofjunkers von Sachsen
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Scenes of Clerical Life
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Confessions of a Woman who once was not quite a woman [By J. Dry] The second edition
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Contemporary Review, Volumes 1 - 17
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Souvenirs d'un vieux Parisiennes
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Memoirs of William Wordsworth. Edited by his nephew, John Wordsworth
+temp=0.7,top_k=40,title=The History of the Parish of St. Mary's, Clerkenwell, London
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Narrative of Arthur Gordon Pym .... New edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Où donc est l'oiseau ? - poèmes par Guillaume Apollinaire
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Canton under the Republic of China
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Poems selected from various sources with some unpublished pieces added
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Cervantes Saavedra en el siglo XVIII
+temp=0.7,top_k=40,title=The History and Antiquities of the County of Dorset, Vol. I. With ... illustrations
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Chinese Thought Compared with European
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=An Inquiry into some points connected with the present state of our Indian tribes within the British dominions
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The New Zealanders in London
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Sorrows of Werther
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Inheritance. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Life of the Rev. G. W. Cox, M.A., late Head Master of Rugby School
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Miscellaneous Works
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Wonderful Things done at Wapping; compiled from contemporary evidence
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Mysteries of Paris: a series of picturesque studies of French manners, customs, and scenery, etc
+temp=0.7,top_k=40,title=The Poetical Works Of Sir Walter Scott
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rambles through the Western Himalayas. Vol I.: From Calcutta to Darjeeling [With illustrations.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Grand Prix de Rome. A series of biographical sketches of the most eminent living artists of Europe
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Woman Question. An essay
+temp=0.7,top_k=40,title=M. L'écuyer. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=London Lyrics
+temp=0.7,top_k=40,title=The History of Lyme Regis, Dorset, from the earliest periods to the present day
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[Signed "Fanny Fern."]' The Story of Nellie Gordon, etc
+temp=0.7,top_k=40,title=The Mammoth Cave of Kentucky and its Phenomena
+temp=0.7,top_k=40,title=The History of the Conquest of Mexico by the Spaniards. [From the Spanish.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Origin of Species by means of Natural Selection, or the Preservation of favoured races in the struggle for life
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Collected Works of Robert Burns, comprising all his poems, songs, satires, letters, etc
+temp=0.7,top_k=40,title=The Wolves of St. Paul
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Birthday Book for my little friends. A book of poems for children
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heir of Redclyffe. By the author of 'Beltraffio' [Miss C. M. Yonge]
+temp=0.7,top_k=40,title=The History of the British Army from the earliest period to the end of the eighteenth century
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Behind the Scenes at Drury Lane Theatre. Being an account of some notable theatrical events during the past season, together with numerous anecdotes connected therewith
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Chronicle of events during eleven years residence in Syria
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales of Mystery and Imagination
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fortunes of Sir Philip Sidney
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Celebrated Trials (Vol 2)
+temp=0.7,top_k=40,title=The Life and Adventures of a Lady of Pleasure
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fate of the Forest [A novel.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Der Weltkrieg von 1914-18 nach den deutschen Quellen bearbeitet... Mit einer Karte des Ersten Weltkrieges
+temp=0.7,top_k=40,title=The Life of Napoleon Bonaparte. By Sir Walter Scott
+temp=0.7,top_k=40,title=The Pestilence of the Past: a romance of the seventeenth century
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Notes from Spain & Portugal
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Leipzig und seine Umgebungen am Beginn des 19 Jahrhunderts
+temp=0.7,top_k=40,title=The Life and Works of James Thomson, Esq.
+temp=0.7,top_k=40,title=La Vie de George Sand. Une femme
+temp=0.7,top_k=40,title=The History of the Anglo-Saxons [By W. H. Stevenson]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Gleanings for my Children: a selection from various authors [Illustrated with cuts drawn expressly for this work.]
+temp=0.7,top_k=40,title=A Tour in the Levant. By the author of 'The Wonders of Geology,' etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Chaucer for Children. Translated into clear simple words under the editorship of E. K. Nesbit
+temp=0.7,top_k=40,title=A Sketch of the History of the Indian Mutiny ... Reprinted from 'The Nineteenth Century', etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wild Irish Girl. A novel
+temp=0.7,top_k=40,title=A Treatise on the Law of Contract. By Charles R. Fenwick
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Earth Spirit
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Golden Book of St. Dunstan's Abbey
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Sixty Years ago: recollections of my school life at Blackheath
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Ancient Egypt under the Pharaohs; being the results of recent explorations conducted with special reference to their bearing upon Egyptian civilization as a whole
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Progress of the Prince of Wales in Scotland in 1822
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Friends : a story for boys. Illustrated
+temp=0.7,top_k=40,title=Society at Home
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=An Essay on Comparative Theology, being also a brief outline of comparative mythology. Second edition
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Pictures on Porcelain and Pottery
+temp=0.7,top_k=40,title=A Collection of the Poetical Works of the late William Wordsworth ... with a memoir of the author, by his nephew, and an appendix
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Church of Christ: a poem
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Pioneers on the Oregon Trail... Illustrated with photographs from nature, engravings & woodcuts from the latest drawings, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Heroines and Heroisms of Fiction: being biographical sketches of well-known women written especially for literary ladies
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Greek Anthology: with critical and explanatory notes, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=New Zealand Illustrated (2nd series)
+temp=0.7,top_k=40,title=Gertrude of Wyoming. A story of the great plains
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Memoirs of John Murray, Esq., founder of the London Review. Second series
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Boyhood of Christ
+temp=0.7,top_k=40,title=The History of the British Army, vol. 1
+temp=0.7,top_k=40,title=Leaves from the Chronicles of France. By the same
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Historical Sketches of Thessaly and Macedonia... From personal observation during visits made between 1850 and 1867
+temp=0.7,top_k=40,title=In the days of the 'Forty-five, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Flute of Pan: a fairy tale [In verse.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Folk Tales of Roumania and Transylvania
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Glimpses into the Past
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The History of Great Britain &c, as related by Plutarch: illustrated by extracts from English writers down to 1670 inclusive
+temp=0.7,top_k=40,title=The Blowing of the Lamp. A tale of the time of the Crusades
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Italian Renaissance in its relation to art, literature and society
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[By John Wainwright.] Leaves from my Journal during an expedition to Kaffraria, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=What is Poetry? And Other Essays. Second revised edition (New Edition) [With portrait]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Autobiography of John Keats
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady of the Lake; a tale of the Highlands
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings among the Indians of Guiana (on board H.M.S. 'Blonde')
+temp=0.7,top_k=40,title=The Story of a Penitent Girl [A tale.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches connected with the history of Parma
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Romeo and Juliet
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Chronicles of the Schönberg Family, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings among the Highlands and Islands of Scotland during 1844-5
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Társadalok és városok áttekintés az otthonos világról...
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Woman's Mission; or, Home thoughts on Manhood, Marriage, Mothership, Female Culture, &c., Etc
+temp=0.7,top_k=40,title=The Two Poets
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Midsummer Night's Dream
+temp=0.7,top_k=40,title=The History of the Jews, from the time of Christ to the present day [A revised translation of the 'Jewish History' of Leon de Modena.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Briefe aus der Schweiz
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Rudimentary Lessons of Speech Recitation and Reading
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=London and Westminster Review. January, 1863, No. 1., pp. 1–29
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Story of a Round Tower
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady of Lyons; a drama
+temp=0.7,top_k=40,title=The History of a Lover. A novel
+temp=0.7,top_k=40,title=The Three Magicians
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Outlines of British History from Julius Caesar to James II., illustrated
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Modern German Literature. Translated by J. W. Morkill
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Works of Robert Burns
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Poetical Works of Sir Walter Scott. Including "The Lord of the Isles," "The Lay of the Last Minstrel," etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Royal Oak Tree (On Queen Victoria)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Widowhood and Single blessedness : with some account of life insurance companies to which reference is made
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Glimpses of Italy: scenes witnessed during a residence there under various circumstances
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Anglo Saxon Monks and their Continental Home
+temp=0.7,top_k=40,title=The Lady of the Manor: a story of the eleventh century
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of the German Confederation, from the formation of the Empire to the Revolution of 1848
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Historical Sketches of the Reign of Queen Anne (1702)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Jottings out of my Life; being recollections chiefly personal. By Thomas Holcroft. Edited with an introduction by William Archer. Second series
+temp=0.7,top_k=40,title=Cricket and The Football
+temp=0.7,top_k=40,title=The Book of the Poets
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Echoes from Old Churches and Chapels
+temp=0.7,top_k=40,title=Stories of the Saints. For the Young
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Visit to the Catacombs of Rome. With descriptions of the various objects of interest contained in them
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Streets I Have Known [With illustrations]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Couriers d'Afrique
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Mary Barton, a Tale of Manchester Life (with introduction by George Eliot)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Vienna Pastoral Ballads
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales & Sketches of Warwickshire. Chiefly taken from traditionary sources
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=God's Providence Housekeeper: being an account of some remarkable events which occurred at Liverpool during the last two years [1854]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Historical Researches into the Origin of the Maori Race
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=What is this World? or The Romantic Adventurer
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Exile's Return, a poem
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Mysteries of Udolpho; a Romance. Translated from the French of Ann Radcliffe
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=La Guerre d'Espagne depuis un an jusqu'à nos jours
+temp=0.7,top_k=40,title=The Old English Baron. A legend
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lincolnshire Stories and Legends
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Friends for Ever! For ever Friends! And Other Verses
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Chronique d'une ville normande au XIIIe siècle; Tireppe
+temp=0.7,top_k=40,title=The History, Antiquities, and Present State of the County Palatine of Lancaster
+temp=0.7,top_k=40,title=The History of the Jews
+temp=0.7,top_k=40,title=The Great Shadow, and Beyond the City
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spiritualists' Record. Being a collection of testimonies of those who have had communications from the world beyond the grave
+temp=0.7,top_k=40,title=The Life and Correspondence of Robert Southey. Edited by C. F. P. Arbuthnot
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sonnets from Petrarch
+temp=0.7,top_k=40,title=The History of England from the accession of James I to the revolution in 1688, with a view of the rise and progress of the British constitution
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Bustling Boreas! The adventures of Mr. Johnson on his first visit to London [By W. Hone.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lost Ark: a Tale of the Australian Bush
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Two Virgins, and other tales
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Confessions of an Artiste
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lectures on Shakespeare. By Thomas Campbell
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Story of Nellie Bligh at Home and Abroad, From her Birth till she Married Henry Hardinge, third Duke of Wellington (with plates.)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Rudimentos da Ortografia Portuguesa em Portuguez e Castelhano
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Annals of St Ives
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Strange Stories from Foreign Lands... From the German of Heinrich Heine
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Cecilia (the second part)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Champion Jack : a story of Yorkshire life. In two volumes
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Eastern Travels; including visits to Ceylon, Burmah, Siam, Java, China, &c., 1853-1855
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Bessborough Park
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Three Marriages of Miss Mary Anne Manning. A novel
+temp=0.7,top_k=40,title=Viaje al Tierra del Fuego [With plates.]
+temp=0.7,top_k=40,title=The Adventures of a Naval Officer, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Seven Sisters of Sleep
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Poetical Works of Lord Byron. Edited by his sister Augusta Leigh. [Illustrated.]
+temp=0.7,top_k=40,title=The History of the War in India ... By William Hickey
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Shaving of Shagpat. A tale
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The History of the Great Civil War between Charles I., 1640-'48 ... To which is added an historical account of Scotland under that reign, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Owen Wingrave: an historical romance ... Fifth edition
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Homeward Bound. A tale of the Pacific Ocean
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Confessions of an Opium Eater. Written under the influence of opium [by Thomas De Quincey], being an account of his own dreams
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Novel. In three volumes
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Plea for the Abolition of Capital Punishment
+temp=0.7,top_k=40,title=Ansichten von Frankfurt am Main und seiner Umgebung, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stripling Willie; an original romance ... Based upon fact
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The White Bull of Norroway. A legend of the Western Isles
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[By William Henry Harrison (1773 - 1829)]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The New England Tragedies. A drama
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales from Shakspeare [Illustrations after Flaxman]. With notes
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Narrative of Captain Cook's second voyage round the world, 1772-1775
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Rivals
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Vicar of Wakefield. A moral picture of domestic life
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Family of Montmorency: a tragedy
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Marquis of Anglesey: a tragedy in five acts
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heroines of Shakespeare's Plays
+temp=0.7,top_k=40,title=The Gipsy's Prophecy: and the Wicked Baron's Son [A novel.]
+temp=0.7,top_k=40,title=The Story of a Shipwreck
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Diary of a Residence on the coast of Guinea during part of the years 1845-1847
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Falkirk Past and Present
+temp=0.7,top_k=40,title=The Life of Robert Raikes, of Gloucester, from his own memoirs, written by himself
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Mysteries of Udolpho; or, the Italian Nun. By Ann Radcliffe revised for American readers by Charles Heath
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Pilgrim's Progress; edited from the original manuscript by Charles T. Brooks
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Voyage of the "Sunbeam"
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Temptation of Saint Anthony. A drama [In three acts]. By Thomas Taylor
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Wanderings in Patagonia: being an account of four years residence in that country
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Waverly
+temp=0.7,top_k=40,title=Missionary Travels and Researches in South Africa
+temp=0.7,top_k=40,title=The Greatest of these
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=La Guerre d'Espagne et ses causes
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Few Words on the Royal Academy
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Legends of Robin Hood (with two original designs)
+temp=0.7,top_k=40,title=The Life of St. Anthony of Padua, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Recollections of my Life : chiefly relating to events connected with the French Revolution, 1789-1814
+temp=0.7,top_k=40,title=The Wandering Jew. A tale
+temp=0.7,top_k=40,title=The Rivals
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Stories for Children, selected and arranged by Mrs. Ewing
+temp=0.7,top_k=40,title=The Lady of the Lake
+temp=0.7,top_k=40,title=The Fate of the Ship, and other sketches of the Sea ... With an introduction and notes, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Besant et Palmer: their life and work together illustrated
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Three Brethren
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Spanish Calendar and Almanac for 1867[Published under direction]of The Society for Promoting Christian Knowledge
+temp=0.7,top_k=40,title=A Tour round the World. In a series of letters, etc
+temp=0.7,top_k=40,title=The Fairy Queen. A poem, etc
+temp=0.7,top_k=40,title=Leaves from the Diary of a Voyage in the East Indies, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Ode on National Independence (Second Edition)
+temp=0.7,top_k=40,title=The Two Brothers
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Chronicles of Charlecote Park. With illustrations
+temp=0.7,top_k=40,title=The Two Admirals [A novel.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Miscellaneous Essays
+temp=0.7,top_k=40,title=The Story of a Life. A novel, etc
+temp=0.7,top_k=40,title=The Wooing of Malkatoon: a romance
+temp=0.7,top_k=40,title=The Cicerone; or, the man of many countries. A tale
+temp=0.7,top_k=40,title=An Inquiry into the Rise, Progress, and Present State of the English Language
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tales from the Arabian Nights translated into English Prose (1861)
+temp=0.7,top_k=40,title=Cicero. De officiis. Translated by C. W. King
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Excursion. Part 1
+temp=0.7,top_k=40,title=The Life of George Sand. A novel [By H. W. Paul.]
+temp=0.7,top_k=40,title=A Poet's Story [A novel.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Thoughts Moral and Political: including some account of Mr. Cobbett, of "Peter Porcupine," &c
+temp=0.7,top_k=40,title=The History of the Rifle Brigade (From 1803 to 1820)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Rudolph Erich Raspe (1736–1807). Der deutsche Dichter und sein Jahrhundert
+temp=0.7,top_k=40,title=The Story of a Village. In two parts. By the author of 'The Maid of Fairholm'
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of the Borough of King's Lynn. From the earliest period to the present time
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Somersetshire; or, The Western Counties [In verse.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Diary of an Invalid
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=What I saw at Washington during my late visit to that city as minister plenipotentiary from this Government
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Autobiography of Mrs. Elizabeth Smith Shaw [Written by herself.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[Miscellaneous poetry]: including ballads written while suffering from paralysis; letters addressed to different friends; miscellaneous pieces composed since leaving home; etc
+temp=0.7,top_k=40,title=Mémoires d'un Chasseur de la Garde impériale
+temp=0.7,top_k=40,title=The Englishman in America. A series of letters to the Editor of the 'Saturday Review'
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Vicar of Wakefield
+temp=0.7,top_k=40,title=A Tract on the Constitution, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Knight Errant; or, Harry Bertram at Sea, 2 vol.
+temp=0.7,top_k=40,title=The Great Republic, and other poems [By H. A. Tuckwell.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Two Hundred Years Hence: an historical romance
+temp=0.7,top_k=40,title=The History of the Conquest of Peru
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Leaves from my Journal kept between 1852 and 1861
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Voyages dans le Caucase par l'Abdékérode russe Vassili Poussoukof (1820–56)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Queen's Quair [A poem.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=History of England from 1701 to 1868. By Thomas Macaulay [Second edition]
+temp=0.7,top_k=40,title=Poems, etc
+temp=0.7,top_k=40,title=A Tourist's Guide to the Highlands of Scotland
+temp=0.7,top_k=40,title=La Vie de sainte Hélène; ou, les mystères de la cour de Néron
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Modern Utopia. Being essays towards the realization of Sir Thomas More's idea of a perfect commonwealth
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Queen's Spies. A romance of the Reign of Elizabeth
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Memoirs, correspondence, and other papers relative to the Settlement of Western Australia
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Battle of Waterloo: a poem
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Earthly Paradise; or, Pictures from a Surreptitious Exhibition. By Edward FitzGerald
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Leaves from the Journal of a Residence in Spain. In the years 1828-1829
+temp=0.7,top_k=40,title=The Wanderer, and other poems
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lavengro : what can it be? an allegorical tale for adults
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Germanic Life in America [And other poems]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Historic Gatherings among our Colonial Ancestors, or Old Family Portraits drawn upon Life
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Juan el Portugués (or Juan o los Médanos)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Exile's Return [A poem.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Toil and Tears for Glory : being an authentic record of some events connected with the raising of the Royal Naval Reserve Battalion
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Miscellaneous Poems
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Gleams of Sunshine on Arctic Seas. Being an account of explorations among the islands north of Siberia
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An American Lady: being notes taken during her visit to England and Scotland in 1847-'48 [By Eliza Leslie]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Anglo-Saxon Chronicle
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Friends in Council; or, Diversions at Home and Abroad
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Ourselves our neighbours. Being sketches illustrative of personal experience amongst the Australian aborigines during fourteen years residency at Port Essington, North Australia
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The First Book of the British Flora
+temp=0.7,top_k=40,title=The History of the Town of St. Jean de Luz ... Illustrated by a sketch of its ancient ramparts
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Sea of Faith: a drama in three acts
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Essays and Lectures
+temp=0.7,top_k=40,title=The Conquest of Canada: an historical and political romance
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Adventures of Sir Richard Whittington. Illustrated
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Life at home: being family records during half a century
+temp=0.7,top_k=40,title=The New Calendar: a history of the calendar and its reformers
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Waterdale Mystery [A novel.]
+temp=0.7,top_k=40,title=The Miser's Daughter. A Novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Irishman in London
+temp=0.7,top_k=40,title=The History of the North American Indians
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Journal of Major George Warde [With plates.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man of Business, and other tales. By Captain Marryat
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man who left off Eating Meat, and other Tales
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=A volume of poems
+temp=0.7,top_k=40,title=The Story of a Hare. A book for boys and girls
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Fitzgerald and Fitzgibbon, their lives and works (new ed.)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Story of the Wild Asses
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=La vida en el campo
+temp=0.7,top_k=40,title=The Story of the 'Grosvenor'
+temp=0.7,top_k=40,title=The Old Road to the City of Mexico, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Pompeiana et Magna Grecia. Les antiquités d'Argilos au Musée Napoléon III., à Rome
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches from Field Sports in India, Burmah, Ceylon, British Columbia, Victoria, New South Wales, Queensland, &c., etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Recollections of Italy, chiefly autobiographic
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Royal Edinburgh Military Asylum, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=A Midsummer Ramble among the Hills about Richmond and Charlottesville, Va., during August, 1860
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Le Père Marcellin ou le bon pasteur
+temp=0.7,top_k=40,title=The Last Days of Pompeii. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Bells and Pomegranates; being papers selected from The Athenæum magazine, London
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Deerslayer. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Courtship of Rosamond. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Religious Thoughts at Twenty Years Old. And Other Poems
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Riverside Poets (Volume I.)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man who died for love
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Christmas Carol. By Charles Dickens [Reproduced in facsimile from the first English edition of 1843.]
+temp=0.7,top_k=40,title=The Fountain of Youth, and other poems
+temp=0.7,top_k=40,title=The Old English Gentleman. A poem
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=A Midsummer Night's Dream. An adaptation for stage representation (from Shakespeare)
+temp=0.7,top_k=40,title=La Ville de Saint-Pol-sur-Ternoise [A novel.]
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Napoleon Bonaparte as he appeared during the Hundred Days after Waterloo
+temp=0.7,top_k=40,title=The History of the County of Cornwall, from the earliest period to the reign of Queen Victoria
+temp=0.7,top_k=40,title=Poems, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Life at Sea; or, Five Years at a Watering Place
+temp=0.7,top_k=40,title=The History of the Grecian Revolution, From the Earliest Period to the Battle of Platæa, etc [With illustrations.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Golden Lion of Granada. A legend of the Moors
+temp=0.7,top_k=40,title=The English in Holland
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Les Frères du Rhône et le tiers état à Lyon pendant les troubles révolutionnaires (1793)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Historical Sketches of Ancient Rome... Third series
+temp=0.7,top_k=40,title=The Little Mother [A novel.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Advantages of the Gipsies ... From the German of Dr. Johann Caspar Lavater
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Thoughts about Religion
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Letters written during his travels abroad
+temp=0.7,top_k=40,title=A Tragedy, in two acts
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Stories about Animals, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Geraldine's Courtship. A love scene between Lord Gerald Tyrlton & Diana Vernon
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Lady of the Manor
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Roman Catholic Religion and the Protestant Religion Compared
+temp=0.7,top_k=40,title=The Poetical Works of R. H. Kenyon
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Adventures of Harry Richmond
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=The Conquest of Mexico. An Historical Romance of the Twentieth Century
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Bolton Courtship... Third edition
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The True Story of my Life: including a narrative of my captivity among the Indians
+temp=0.7,top_k=40,title=The Life of the Right Hon. Sir Robert Peel ... By his Son
+temp=0.7,top_k=40,title=The Red Cross Knight and other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Courtship of Miles Standish. A comic opera. Libretto by Walter Damrosch
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Essays Critical and Imaginative
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Children of the Abbey: a tale
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Water Witch. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Household of Sir Thos. More. From the MSS. of Lord Clarendon
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=[Saxony]. An historical drama. In three acts. Translated into English verse with notes
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=From Jena to Paris (1870)
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Cicero de Officiis Divinatricibus Libri Sex [In Latin.]
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Sketches of American society [By Mark Akenside]. New impression
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Red Mill
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lecture on Homer, illustrated from drawings made expressly for this lecture... From etchings taken direct from original gems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The American Seaman; or, The Young Man's Own Book
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Memoirs of Madame d'Arblay: including her Correspondence, Diaries, &c., together with many unpublished Letters written by Her Friends
+temp=0.7,top_k=40,title=The Poetical Works of G. J. Whyte-Melville
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Voyage autour du monde, exterieur et interieur, fait pendant les années 1862 à 1867 [Fifty illustrations]
+temp=0.7,top_k=40,title=Brighton Beach and Sandown. A tale of the present and the past
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The King's Message. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Memoirs of Mrs. Elizabeth Carter. Written by herself
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Memoirs of an English Opium Eater
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Heart of Mid-Lothian. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Romeo and Juliet; an historical play with notes, prefixed, illustrative of Roman history, customs, &c., and explanatory of the text
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Chronicles of St. Mary's Abbey, York
+temp=0.7,top_k=40,title=The Story of a Short Life. By the late Mrs. A. O. Hume
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Practical Horseman. A treatise on the diseases and remedies of horses
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Essays in Political Economy [By F. W. Newman]. Edited by Charles Gide
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Poetical Works of Thomas Campbell ... With a portrait
+temp=0.7,top_k=40,title=The Conquest of Granada. By the author of 'The Last of the Zegries' ... Illustrated
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Woman under Monasticism; or, The Abbess at St. Helena Abbey. Being letters written during that period when nunneries were suppressed
+temp=0.7,top_k=40,title=The Life and Times of the Emperor Julian, and a sketch of the Early History of Christianity. By A. C. Littleton
+temp=0.7,top_k=40,title=The Wanderer's Library [A satire.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Maid of Kent. A romance
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Hymns and Psalms adapted to Public Occasions, Morality Lessons, &c
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Collected Works of the late William Makepeace Thackeray, Esq., in twenty volumes, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Oaks of Mamre
+temp=0.7,top_k=40,title=The Sledge Hammer: or, a Visit to the Holy Land
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Poems written during my travels through America
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of the Town of Marlow, in the County of Buckingham, from the earliest period to the present time. By William Marshall
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=New Zealand : its physical features, inhabitants, productions, languages, arts, customs &c., with remarks upon Maori life and history
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The New Spiritual Method: being practical sermons on various topics as they present themselves for consideration
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The American Woman's Home; or, Principles of Domestic Science applied to the various duties of the household
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Chronicles of Carlingford
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=On the Sea Coast. An idyllic romance. Being an account of life amongst fishermen at Boulogne-sur-mer
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fall of the Jesuits in France
+temp=0.7,top_k=40,title=The Life and Death of Sir William Wallace ... Translated from the French, with notes, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Three Maidens
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=Agnes Grey; or, My life is like the Summer Rose
+temp=0.7,top_k=40,title=Cumberland's Expedition, and other poems [By the Rev. George Smith]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spectacle of Christendom
+temp=0.7,top_k=40,title=The History of the City of York
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Descriptive Catalogue of Prints sold at Christie's Rooms, London, 1874
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Hints upon Education addressed to parents and guardians [From 'An Earnest Appeal,' etc., by Dr. Pye Smith.]
+temp=0.7,top_k=40,title=The Wanderer and other poems. With a frontispiece
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=On some points connected with Indian History
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=London as it is : being extracts from " London As It Is," etc., published at intervals during eighteen months last past. Edited by Richard Whiteing
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Old Vicarage, Grantchester
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An American Woman's Love Letters From France during the Terror: translated into English
+temp=0.7,top_k=40,title=The Young Pilgrims
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Thirty years' experience as schoolmaster at Stoke Damerel, near Plymouth
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Twelve Months at Rome with my Knapsack and Fly Rod
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Great City
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Child of the Sea. A story
+temp=0.7,top_k=40,title=Dante and his Divina Commedia. A literal prose-translation, with critical and explanatory notes. By R. W. Hamilton, LL.D.
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Tales Told at Fire-side
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=A Visit to the Zoo
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The History of the Life of Thomas Jefferson, third President of the United States
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Rambles through Palestine during the years 1857, 58 & 59
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An Excursion from London to Windsor Park Through Middlesex, Herts, Bucks and Berkshire, etc
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=The Poetical Remains of Sir Walter Scott. Containing also some unpublished pieces not hitherto included in any collection
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Reign of Terror; or, The Days of the Commune
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Glimpses into the Past; an attempt at recalling some old associations... By E. T. Cowper Powys ... Third edition
+temp=0.7,top_k=40,title=Miscellaneous Poems
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Napoleon Bonaparte (a biographical sketch)
+temp=0.7,top_k=40,title=The Conquest of the Canadas
+temp=0.7,top_k=40,title=History of the Reformation in England, etc
+temp=0.7,top_k=40,title=The Life of the Rev. Samuel Marsden, etc
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Swiss Family Robinson
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Essays on History & Biography
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Story of the "Royal Oak"
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Fall of Man: a poem [In four cantos.]
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Wife's Revenge. A comedy
+temp=0.7,top_k=40,title=The New Testament in Greek, according to the Textus Receptus of Erasmus, with the English translation of the Rev. Richard Bentley
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Recollections of my Life and Writings (by Thos Carlyle)
+temp=0.7,top_k=40,title=The Life and Times of Peter the Great
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Remarks on Mr. Peel's Bill establishing Sunday Schools... By J. H. Freke
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Book of Christmas, with other poems
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Household Book of Elizabethan Days. Being a diary kept by Robert Dudley, Earl of Leicester, 1558-1561
+temp=0.7,top_k=40,title=The Tears of Sorrow. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Spirit of the Age
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Young Rajah
+temp=0.7,top_k=40,title=The History of the Expedition to Russia, undertaken by the Emperor Napoleon in the year 1812
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Lives and Adventures of Don Quixote (Translated into English)
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Life at College. A guide to collegiate privileges, customs, rights, &c., also to college etiquette
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Parisian Fantasie; with some verses by Dora Wheeler
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Diary (of an American) at Paris during the Franco Prussian War of 1870-71
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Life and Adventures of Michael Armstrong, Esq., late of the Royal Navy. Written by himself
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Legend of St. Brandan
+temp=0.7,top_k=40,title=The Story of the 'Heroic Life' of the late James M'Culloch. With a portrait
+temp=0.7,top_k=40,title=The History of the Great Rebellion ... Including ... The Life and Death of ... Oliver Cromwell
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Enigmas
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Chronicle of Queen Jane and King Henry VIII. From contemporary sources compiled under royal authority
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Lecture on Shakspeare delivered before the London Shakespeare Society
+temp=0.7,top_k=40,title=The History of the City of Bristol. Volume I
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Recollections of Lady Blessington
+temp=0.7,top_k=40,title=A History of the Rebellion and Civil Wars in the United States of America, etc
+temp=0.7,top_k=40,title=The History of Russia during the Reign of Peter the Great
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Literary Remains of Robert Southey. Edited by R. S. Thomas
+temp=0.7,top_k=40,title=The Story of the 'Vixen,' and other verses
+temp=0.7,top_k=40,title=The Pocket Magazine. A monthly miscellany, containing original stories, essays, poems, etc
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Tom Tiddler's Ground. A comedy for young people
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Farmers and their Sons; or, Young England on his travels
+temp=0.7,top_k=40,title=The First-born of Egypt. A tale of the Pyramids
+temp=0.7,top_k=40,title=A Trip to Canada
+temp=0.7,top_k=40,title=The Adventures of a French Doll: A story of the American Revolution. By William H. Bartlett
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Voyage of Paul Brun to Brazil (1769) / translated by Wm. Hickling Prescott
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=In Praise of England (in two parts)
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Man who loved his Kind. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Adventures of a Lady. A novel
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Clergy of the Diocese of York, from the earliest period to the present time
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Poetical Works of Henry Kirke White, D.D., late President of Dickinson College. With biographical sketch by Joseph S. Woodward
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Lays of Ancient Rome. Translated into English hexameters with notes
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The City of the Saints. A novel
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=In Favour of Popular Education as practised at Clifton College, Bristol
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=Frampton Rectory. Being personal recollections of events during fifty years at Frampton rectory... Second Edition.... Republished with additions
+rep=1.05,rep_range=560,temp=0.7,top_k=40,title=An Account of the Ancient City of Tadmor on the Syrian Frontier
+rep=1.05,rep_range=560,tailfree=0.937,top_a=0.085,typical=0.965,top_p=0.88,temp=1.33,title=Anglo-German relations under Bismarck
+rep=1.0225,rep_range=2048,tailfree=0.925,typical=0.85,top_a=0.12,top_p=0.985,temp=0.925,top_k=85,title=The Chances of Death, and other poems
